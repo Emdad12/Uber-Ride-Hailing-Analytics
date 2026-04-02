@@ -113,7 +113,7 @@ Uber-Ride-Hailing-Analytics-PowerBI/
 ├── README.md
 └── insights.md
 ```
-## 📷 Screenshots
+## 📷 Some key chart
 <img width="375" height="187" alt="image" src="https://github.com/user-attachments/assets/22e22bdd-70d5-446a-be1d-e65b75b27e28" />
 <img width="812" height="491" alt="image" src="https://github.com/user-attachments/assets/299e0d11-fb7e-4185-82ff-8ccf9ea33707" />
 
@@ -146,7 +146,6 @@ Thank you for consistently delivering high-value content that helps aspiring dat
 
 ---
 
-**Made with ❤️ and powered by great learning resources**
 
 ***Made with ❤️ using Power BI***   
 
